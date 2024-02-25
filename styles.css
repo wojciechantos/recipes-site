@@ -1,0 +1,32 @@
+* {
+    background-color: cornsilk;
+    font-family: "Garamond", serif;
+}
+
+body {
+    padding: 24px;
+}
+
+h1 {
+    font-size: 56px;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+p {
+    font-size: 28px;
+}
+
+ul {
+    list-style-type: decimal;
+}
+
+li {
+    font-size: 24px;
+}
+
+a {
+    color: black;
+}
